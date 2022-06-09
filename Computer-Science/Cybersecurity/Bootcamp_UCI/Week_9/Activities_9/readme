@@ -1,0 +1,15 @@
+readme
+Networking Fundamentals II and CTF
+
+Diving in deeper details and exploring new concepts about 
+  1. DCHP
+  2. NAT
+  3. Routing
+  4. Wireless technology 
+  5. DNS Records
+  6. Email Networking
+  
+The week will conclude with a little capture the flag competition testing my knowledge on Networking Fundamentals. This week I will be utilizing wireshark identify DHCP issues, conduct a Aircrack-ng attack, analyze wireless beacon signals, validate DNS records, analyse emnail headers, and optimizing routing schemes. These topics will help supplement my knowlege for section 1-3 on the Security+ exam.
+© 2022 GitHub, Inc.
+Terms
+Privacy
