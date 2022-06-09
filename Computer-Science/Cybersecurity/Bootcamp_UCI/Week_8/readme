@@ -1,0 +1,8 @@
+Networking Fundamentals
+
+This directory is filled with the basic concepts on computer networking. Here, we will be diving into how devices are networked together and how they communicate with one another. I have learned the following:
+  1. Client/Server model, network topologies, and how DNS function and its vulnerabilities
+  2. OSI models: its various vulnerabilities and what each layer represents.
+  3. Utilizing wireshark to visualize and analyze the previously stated network concepts
+  4. Performing SYN scans and learning more about layers 2-4 on the OSI model.
+  
